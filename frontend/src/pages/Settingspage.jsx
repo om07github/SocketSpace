@@ -114,5 +114,3 @@ const SettingsPage = () => {
   );
 };
 export default SettingsPage;
-
-//created a settings page
